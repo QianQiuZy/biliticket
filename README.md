@@ -67,4 +67,10 @@
 
 ## 投喂作者
 
-投喂地点：[爱发电](https://afdian.com/a/qianqiuzy)
+投喂地点：
+
+[![QianQiuZy's Profile](https://sponsor.qianqiuzy.cn/profile.svg?slug=qianqiuzy)](https://ifdian.net/a/qianqiuzy)
+
+## 赞助名单
+
+![Sponsors](https://sponsor.qianqiuzy.cn/sponsor.svg)
