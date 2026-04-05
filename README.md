@@ -27,9 +27,9 @@
 
 [杀毒软件误报解决](https://blog.csdn.net/xitongzhijia_abc/article/details/125373425)
 
-[github下载慢解决方法1](https://blog.csdn.net/qq_42009262/article/details/106992684)
+[github下载慢解决方法](https://blog.csdn.net/qq_42009262/article/details/106992684)
 
-[github下载慢解决方法2](https://github-hosts.tinsfox.com/)
+[gitee镜像下载更快](https://gitee.com/qianqiuzy/biliticket)
 
 ## 介绍
 
