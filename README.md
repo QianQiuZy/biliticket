@@ -33,7 +33,7 @@
 
 ## 介绍
 
-已使用httpx[http2]
+已使用httpx2[http2]
 
 因技术原因和自有通知系统闭源
 
@@ -63,7 +63,13 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=QianQiuZy/Biliticket&type=Date)](https://star-history.com/#QianQiuZy/Biliticket&Date)
+<a href="https://www.star-history.com/?repos=QianQiuZy%2FBiliticket&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=QianQiuZy/Biliticket&type=date&theme=dark&legend=top-left&sealed_token=2uI2nY3wo863_4ORPsH_sywY4R0B2nXCNFzE16q7HynA_OwWO_4UowgvdOJypTMhbDlB1w-9cxc2IoGzG-Hd1vbX517R8ZvAL2koBK_Qxp7aXOhZhpu4fw" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=QianQiuZy/Biliticket&type=date&legend=top-left&sealed_token=2uI2nY3wo863_4ORPsH_sywY4R0B2nXCNFzE16q7HynA_OwWO_4UowgvdOJypTMhbDlB1w-9cxc2IoGzG-Hd1vbX517R8ZvAL2koBK_Qxp7aXOhZhpu4fw" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=QianQiuZy/Biliticket&type=date&legend=top-left&sealed_token=2uI2nY3wo863_4ORPsH_sywY4R0B2nXCNFzE16q7HynA_OwWO_4UowgvdOJypTMhbDlB1w-9cxc2IoGzG-Hd1vbX517R8ZvAL2koBK_Qxp7aXOhZhpu4fw" />
+ </picture>
+</a>
 
 ## 投喂作者
 
